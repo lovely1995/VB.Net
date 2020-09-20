@@ -1,0 +1,16 @@
+C:\Users\YuYu\Desktop\app\test\test\bin\Debug\Database1.mdf
+C:\Users\YuYu\Desktop\app\test\test\bin\Debug\Database1_log.ldf
+C:\Users\YuYu\Desktop\app\test\test\bin\Debug\test.exe.config
+C:\Users\YuYu\Desktop\app\test\test\bin\Debug\test.exe
+C:\Users\YuYu\Desktop\app\test\test\bin\Debug\test.pdb
+C:\Users\YuYu\Desktop\app\test\test\bin\Debug\test.xml
+C:\Users\YuYu\Desktop\app\test\test\obj\Debug\test.vbprojAssemblyReference.cache
+C:\Users\YuYu\Desktop\app\test\test\obj\Debug\test.Form1.resources
+C:\Users\YuYu\Desktop\app\test\test\obj\Debug\test.Resources.resources
+C:\Users\YuYu\Desktop\app\test\test\obj\Debug\test.vbproj.GenerateResource.cache
+C:\Users\YuYu\Desktop\app\test\test\obj\Debug\test.vbproj.CoreCompileInputs.cache
+C:\Users\YuYu\Desktop\app\test\test\obj\Debug\test.exe
+C:\Users\YuYu\Desktop\app\test\test\obj\Debug\test.xml
+C:\Users\YuYu\Desktop\app\test\test\obj\Debug\test.pdb
+C:\Users\YuYu\Desktop\app\Test\test\bin\Debug\Guna.UI2.dll
+C:\Users\YuYu\Desktop\app\Test\test\obj\Debug\test.vbproj.CopyComplete
